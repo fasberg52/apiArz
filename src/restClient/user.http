@@ -1,0 +1,10 @@
+#send
+GET http://localhost:3006
+
+content-type: application/json
+
+
+###Dollar
+GET http://localhost:3006/api/arz
+
+content-type: application/json
