@@ -8,3 +8,9 @@ content-type: application/json
 GET http://localhost:3006/api/arz
 
 content-type: application/json
+
+
+###Mesghal 
+GET http://localhost:3006/api/mesghal
+
+content-type: application/json
